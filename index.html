@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ontario MTO Driver's Handbook Quiz</title>
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚗 MTO Driver's Quiz</h1>
+            <p>Ontario Driver's Handbook Practice Test</p>
+        </div>
+        
+        <div class="content">
+            <!-- Start Screen -->
+            <div id="startScreen" class="start-screen">
+                <h2>Welcome to the MTO Practice Test!</h2>
+                <p><strong>📝 Test Format:</strong> 10 randomly selected questions</p>
+                <p><strong>⏱️ Passing Score:</strong> 8 out of 10 (80%)</p>
+                <p><strong>📚 Coverage:</strong> All chapters of the MTO Driver's Handbook</p>
+                <p><strong>💡 Tip:</strong> Read each question carefully and choose the safest option when in doubt</p>
+                <button class="btn" onclick="startQuiz()">Start Practice Test</button>
+            </div>
+
+            <!-- Loading Screen -->
+            <div id="loadingScreen" class="loading" style="display: none;">
+                <h2>Loading questions</h2>
+            </div>
+
+            <!-- Question Screen -->
+            <div id="questionScreen" class="question-container">
+                <div class="progress">
+                    <div id="progressBar" class="progress-bar" style="width: 0%"></div>
+                </div>
+                
+                <div id="questionNumber" class="question-number"></div>
+                <div id="questionText" class="question-text"></div>
+                
+                <div id="options" class="options"></div>
+                
+                <div id="reference" class="reference" style="display: none;"></div>
+                <div id="feedback" class="feedback" style="display: none;"></div>
+                
+                <button id="nextBtn" class="btn" style="display: none;" onclick="nextQuestion()">Next Question</button>
+            </div>
+
+            <!-- Results Screen -->
+            <div id="resultsScreen" class="results-screen">
+                <h2 id="resultsTitle"></h2>
+                <div id="scoreCircle" class="score-circle">
+                    <span id="scoreText"></span>
+                </div>
+                <p id="scoreDescription"></p>
+                
+                <div class="tips">
+                    <h3>💡 Tips for the Real G1 Test:</h3>
+                    <ul>
+                        <li>Study the official MTO Driver's Handbook thoroughly</li>
+                        <li>Take practice tests regularly to identify weak areas</li>
+                        <li>Read each question carefully - don't rush</li>
+                        <li>When unsure, choose the safest driving option</li>
+                        <li>You need 16 out of 20 questions correct (80%) to pass</li>
+                        <li>Arrive early and bring proper identification</li>
+                    </ul>
+                </div>
+                
+                <button class="btn" onclick="restartQuiz()">Take Another Practice Test</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="./js/quiz.js"></script>
+</body>
+</html>
