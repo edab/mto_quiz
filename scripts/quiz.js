@@ -14,9 +14,55 @@ function shuffleArray(array) {
     return shuffled;
 }
 
+// Utility functions for testing
+function calculateScore(correctAnswers, totalQuestions) {
+    return Math.round((correctAnswers / totalQuestions) * 100);
+}
+
+function calculateProgress(currentIndex, totalQuestions) {
+    return (currentIndex / totalQuestions) * 100;
+}
+
+function saveToLocalStorage(key, data) {
+    try {
+        localStorage.setItem(key, JSON.stringify(data));
+        return true;
+    } catch (error) {
+        console.error('Error saving to localStorage:', error);
+        return false;
+    }
+}
+
+function loadFromLocalStorage(key) {
+    try {
+        const data = localStorage.getItem(key);
+        return data ? JSON.parse(data) : null;
+    } catch (error) {
+        console.error('Error loading from localStorage:', error);
+        return null;
+    }
+}
+
+function clearLocalStorage(key) {
+    try {
+        localStorage.removeItem(key);
+        return true;
+    } catch (error) {
+        console.error('Error clearing localStorage:', error);
+        return false;
+    }
+}
+
 // Export for testing
 if (typeof module !== 'undefined' && module.exports) {
-    module.exports = { shuffleArray };
+    module.exports = { 
+        shuffleArray, 
+        calculateScore, 
+        calculateProgress, 
+        saveToLocalStorage, 
+        loadFromLocalStorage, 
+        clearLocalStorage 
+    };
 }
 
 async function loadQuestions() {
@@ -50,7 +96,7 @@ function startQuiz() {
 
 function displayQuestion() {
     const question = currentQuestions[currentQuestionIndex];
-    const progress = ((currentQuestionIndex) / currentQuestions.length) * 100;
+    const progress = calculateProgress(currentQuestionIndex, currentQuestions.length);
     
     document.getElementById('progressBar').style.width = progress + '%';
     document.getElementById('questionNumber').textContent = `Question ${currentQuestionIndex + 1} of ${currentQuestions.length}`;
@@ -134,7 +180,7 @@ function showResults() {
     document.getElementById('questionScreen').style.display = 'none';
     document.getElementById('resultsScreen').style.display = 'block';
     
-    const percentage = Math.round((score / currentQuestions.length) * 100);
+    const percentage = calculateScore(score, currentQuestions.length);
     const passed = percentage >= 80;
     
     document.getElementById('scoreText').textContent = `${score}/${currentQuestions.length}`;
