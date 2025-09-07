@@ -1,8 +1,12 @@
 # MTO Quiz - Ontario Driver's Handbook Practice Test
 
+## Disclaimer
+
+**This is NOT the official MTO test.** This is an unofficial practice training tool designed to help users prepare for the official Ministry of Transportation Ontario (MTO) G1 knowledge test. For the official test and current requirements, always refer to the official MTO resources.
+
 ## Introduction
 
-This is an initial iteration of a simple web-based practice test designed to help improve preparation for the official MTO (Ministry of Transportation Ontario) G1 knowledge test. The application provides an interactive quiz experience that simulates the format and style of the actual driving test, helping users familiarize themselves with the types of questions they'll encounter.
+This is an initial iteration of a simple web-based practice training tool designed to help improve preparation for the official MTO G1 knowledge test. The application provides an interactive quiz experience to help users familiarize themselves with the types of questions they'll encounter on the actual exam.
 
 ## How to Access
 

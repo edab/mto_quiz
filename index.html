@@ -4,24 +4,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ontario MTO Driver's Handbook Quiz</title>
+    
+    <!-- App Icons -->
+    <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="./icons/icon-512.png">
+    <link rel="apple-touch-icon" href="./icons/icon-192.png">
+    <link rel="shortcut icon" href="./icons/icon-192.png">
+    
     <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
     <div class="container">
         <div class="header">
             <h1>🚗 MTO Driver's Quiz</h1>
-            <p>Ontario Driver's Handbook Practice Test</p>
+            <p>Unofficial Practice Training for Ontario G1 Test</p>
         </div>
         
         <div class="content">
             <!-- Start Screen -->
             <div id="startScreen" class="start-screen">
-                <h2>Welcome to the MTO Practice Test!</h2>
+                <h2>Welcome to the MTO Practice Training!</h2>
                 <p><strong>📝 Test Format:</strong> 10 randomly selected questions</p>
                 <p><strong>⏱️ Passing Score:</strong> 8 out of 10 (80%)</p>
                 <p><strong>📚 Coverage:</strong> All chapters of the MTO Driver's Handbook</p>
                 <p><strong>💡 Tip:</strong> Read each question carefully and choose the safest option when in doubt</p>
-                <button class="btn" onclick="startQuiz()">Start Practice Test</button>
+                <p><strong>📖 Study Resource:</strong> <a href="https://www.ontario.ca/document/official-mto-drivers-handbook" target="_blank" rel="noopener">Official MTO Driver's Handbook</a></p>
+                <button class="btn" onclick="startQuiz()">Start Practice Training</button>
             </div>
 
             <!-- Loading Screen -->
@@ -66,7 +74,7 @@
                     </ul>
                 </div>
                 
-                <button class="btn" onclick="restartQuiz()">Take Another Practice Test</button>
+                <button class="btn" onclick="restartQuiz()">Take Another Practice Training</button>
             </div>
         </div>
     </div>
