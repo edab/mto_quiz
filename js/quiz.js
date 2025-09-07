@@ -16,7 +16,7 @@ function shuffleArray(array) {
 
 async function loadQuestions() {
     try {
-        const response = await fetch('./data/sample_questions.json');
+        const response = await fetch('./data/500_question_bank.json');
         sampleQuestions = await response.json();
     } catch (error) {
         console.error('Error loading questions:', error);

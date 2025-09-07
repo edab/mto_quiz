@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "question": "To get your vehicle out of a skid, you should first:",
     "options": [
       "Steer straight ahead",
@@ -11,6 +12,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 2,
     "question": "When may you lend your driver's licence?",
     "options": [
       "In emergencies",
@@ -22,6 +24,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 3,
     "question": "What must a driver do before entering a highway from a private road or driveway?",
     "options": [
       "Enter or cross the highway as quickly as possible",
@@ -33,6 +36,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 4,
     "question": "Never change lanes in traffic without:",
     "options": [
       "Looking in the rear view mirror only",
@@ -44,6 +48,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 5,
     "question": "When the driver of another vehicle is about to overtake and pass your vehicle, you must:",
     "options": [
       "Speed up so that passing is not necessary",
@@ -55,6 +60,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 6,
     "question": "When you are deciding whether or not to make a U-turn, your first consideration should be to check:",
     "options": [
       "Traffic regulations",
@@ -66,6 +72,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 7,
     "question": "It is more dangerous to drive at the maximum speed limit at night than during daytime as:",
     "options": [
       "Your reaction time is slower at night",
@@ -77,6 +84,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 8,
     "question": "You should under all conditions drive at a speed which will allow you to:",
     "options": [
       "Stop within 150 metres (500 feet)",
@@ -88,6 +96,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 9,
     "question": "What does a solid yellow line on your side of the center line mean?",
     "options": [
       "You may pass if the way is clear",
@@ -99,6 +108,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 10,
     "question": "When approaching a railway crossing, you must:",
     "options": [
       "Stop at least 5 metres from the nearest rail",
@@ -110,6 +120,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 11,
     "question": "A red traffic light means:",
     "options": [
       "Slow down and proceed with caution",
@@ -121,6 +132,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 12,
     "question": "The maximum speed limit in cities, towns, villages and built-up areas is:",
     "options": [
       "40 km/h",
@@ -132,6 +144,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 13,
     "question": "On a highway with no posted speed limit, the maximum speed is:",
     "options": [
       "80 km/h",
@@ -143,6 +156,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 14,
     "question": "What is the minimum following distance on dry pavement?",
     "options": [
       "1 second",
@@ -154,6 +168,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 15,
     "question": "When must you use headlights?",
     "options": [
       "Only at night",
@@ -165,6 +180,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 16,
     "question": "What does a flashing red light mean?",
     "options": [
       "Slow down",
@@ -176,6 +192,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 17,
     "question": "At what age must children use a booster seat?",
     "options": [
       "Under 8 years and weighing less than 36 kg",
@@ -187,6 +204,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 18,
     "question": "What is the blood alcohol limit for drivers under 21?",
     "options": [
       "0.08%",
@@ -198,6 +216,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 19,
     "question": "What is the blood alcohol limit for fully licensed drivers?",
     "options": [
       "0.08%",
@@ -209,6 +228,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 20,
     "question": "When parking uphill with a curb, which way should you turn your wheels?",
     "options": [
       "Away from the curb",
@@ -220,6 +240,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 21,
     "question": "When parking downhill with a curb, which way should you turn your wheels?",
     "options": [
       "Away from the curb",
@@ -231,6 +252,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 22,
     "question": "How far from a fire hydrant must you park?",
     "options": [
       "3 metres",
@@ -242,6 +264,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 23,
     "question": "How close to a stop sign may you park?",
     "options": [
       "3 metres",
@@ -253,6 +276,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 24,
     "question": "What should you do when you see a pedestrian with a white cane?",
     "options": [
       "Sound your horn",
@@ -264,6 +288,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 25,
     "question": "When turning left at an intersection, you must yield to:",
     "options": [
       "Pedestrians only",
@@ -275,6 +300,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 26,
     "question": "A school bus is stopped with red lights flashing. You must:",
     "options": [
       "Stop at least 20 metres back",
@@ -286,6 +312,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 27,
     "question": "What does a yield sign mean?",
     "options": [
       "Stop completely",
@@ -297,6 +324,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 28,
     "question": "When are you allowed to use a handheld device while driving?",
     "options": [
       "Never",
@@ -308,6 +336,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 29,
     "question": "What is the penalty for street racing?",
     "options": [
       "Fine only",
@@ -319,6 +348,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 30,
     "question": "How long is a G1 licence valid?",
     "options": [
       "3 years",
@@ -330,6 +360,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 31,
     "question": "With a G1 licence, what is your blood alcohol limit?",
     "options": [
       "0.08%",
@@ -341,6 +372,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 32,
     "question": "With a G1 licence, when can you drive on 400-series highways?",
     "options": [
       "Never",
@@ -352,6 +384,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 33,
     "question": "What does a broken white line mean?",
     "options": [
       "No passing",
@@ -363,6 +396,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 34,
     "question": "What does a solid white line mean?",
     "options": [
       "Passing prohibited",
@@ -374,6 +408,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 35,
     "question": "When must you dim your headlights?",
     "options": [
       "Within 150 metres of oncoming traffic",
@@ -385,6 +420,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 36,
     "question": "What is the minimum tread depth for tires?",
     "options": [
       "1.6 mm",
@@ -396,6 +432,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 37,
     "question": "Before starting your vehicle, you should:",
     "options": [
       "Check your mirrors",
@@ -407,6 +444,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 38,
     "question": "What should you do if your brakes fail?",
     "options": [
       "Pump the brakes",
@@ -418,6 +456,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 39,
     "question": "When should you check your blind spots?",
     "options": [
       "Before changing lanes",
@@ -429,6 +468,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 40,
     "question": "What does hydroplaning mean?",
     "options": [
       "Skidding on ice",
@@ -440,6 +480,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 41,
     "question": "In fog, you should:",
     "options": [
       "Use high beam headlights",
@@ -451,6 +492,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 42,
     "question": "What is the proper hand position on the steering wheel?",
     "options": [
       "10 and 2 o'clock",
@@ -462,6 +504,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 43,
     "question": "When backing up, you should:",
     "options": [
       "Use mirrors only",
@@ -473,6 +516,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 44,
     "question": "What does a green arrow mean?",
     "options": [
       "Proceed straight only",
@@ -484,6 +528,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 45,
     "question": "How often should you check your mirrors?",
     "options": [
       "Every 30 seconds",
@@ -495,6 +540,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 46,
     "question": "What is carbon monoxide?",
     "options": [
       "A visible gas",
@@ -506,6 +552,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 47,
     "question": "When driving in snow, you should:",
     "options": [
       "Use chains on all tires",
@@ -517,6 +564,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 48,
     "question": "What should you do at a four-way stop?",
     "options": [
       "First to arrive goes first",
@@ -528,6 +576,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 49,
     "question": "When parallel parking, you should park within:",
     "options": [
       "30 cm of the curb",
@@ -539,6 +588,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 50,
     "question": "What does a diamond-shaped sign indicate?",
     "options": [
       "Warning",
@@ -550,6 +600,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 51,
     "question": "Emergency vehicles approaching from behind require you to:",
     "options": [
       "Speed up",
@@ -561,6 +612,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 52,
     "question": "The two-second rule applies to:",
     "options": [
       "Speed limits",
@@ -572,6 +624,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 53,
     "question": "When entering a freeway, you should:",
     "options": [
       "Stop at the end of the ramp",
@@ -583,6 +636,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 54,
     "question": "What does a circular sign indicate?",
     "options": [
       "Warning",
@@ -594,6 +648,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 55,
     "question": "When should you use your horn?",
     "options": [
       "To greet friends",
@@ -605,6 +660,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 56,
     "question": "Seat belts must be worn by:",
     "options": [
       "Front seat passengers only",
@@ -616,6 +672,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 57,
     "question": "When changing tires, you should:",
     "options": [
       "Park on a busy street",
@@ -627,6 +684,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 58,
     "question": "What is the purpose of antilock brakes (ABS)?",
     "options": [
       "To stop faster",
@@ -638,6 +696,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 59,
     "question": "When driving at night, you should:",
     "options": [
       "Use high beams in the city",
@@ -649,6 +708,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 60,
     "question": "What should you do when approaching a construction zone?",
     "options": [
       "Speed up to get through quickly",
@@ -660,6 +720,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 61,
     "question": "The G2 road test focuses on:",
     "options": [
       "Parking skills only",
@@ -671,6 +732,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 62,
     "question": "When must you signal before turning?",
     "options": [
       "30 metres before",
@@ -682,6 +744,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 63,
     "question": "What does a pentagonal sign indicate?",
     "options": [
       "School zone",
@@ -693,6 +756,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 64,
     "question": "When driving behind a motorcycle, you should:",
     "options": [
       "Follow closer than cars",
@@ -704,6 +768,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 65,
     "question": "What should you do if you miss your exit on a highway?",
     "options": [
       "Reverse on the shoulder",
@@ -715,6 +780,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 66,
     "question": "When are you required to have winter tires?",
     "options": [
       "December 1 to March 31",
@@ -726,6 +792,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 67,
     "question": "What does a flashing yellow light mean?",
     "options": [
       "Stop",
@@ -737,6 +804,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 68,
     "question": "How long do you have to renew your licence after expiry?",
     "options": [
       "30 days",
@@ -748,6 +816,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 69,
     "question": "When parking beside a curb, you should be within:",
     "options": [
       "15 cm",
@@ -759,6 +828,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 70,
     "question": "What is the speed limit in a school zone when children are present?",
     "options": [
       "30 km/h",
@@ -770,6 +840,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 71,
     "question": "When turning right, you should:",
     "options": [
       "Turn into the left lane",
@@ -781,6 +852,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 72,
     "question": "What should you do when your vehicle starts to skid?",
     "options": [
       "Brake hard",
@@ -792,6 +864,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 73,
     "question": "The maximum speed limit on highways unless posted otherwise is:",
     "options": [
       "80 km/h",
@@ -803,6 +876,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 74,
     "question": "When may you cross a solid line?",
     "options": [
       "Never",
@@ -814,6 +888,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 75,
     "question": "What does a regulatory sign do?",
     "options": [
       "Warn of hazards",
@@ -825,6 +900,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 76,
     "question": "When driving in heavy rain, you should:",
     "options": [
       "Use hazard lights",
@@ -836,6 +912,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 77,
     "question": "What is the fine for not wearing a seatbelt?",
     "options": [
       "$50",
@@ -847,6 +924,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 78,
     "question": "When should you check your vehicle's fluids?",
     "options": [
       "Monthly",
@@ -858,6 +936,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 79,
     "question": "What does a merge sign mean?",
     "options": [
       "Stop and wait",
@@ -869,6 +948,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 80,
     "question": "When driving near cyclists, you should:",
     "options": [
       "Sound your horn",
@@ -880,6 +960,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 81,
     "question": "What should you do if an oncoming vehicle has high beams on?",
     "options": [
       "Flash your high beams",
@@ -891,6 +972,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 82,
     "question": "The minimum age to get a G1 licence in Ontario is:",
     "options": [
       "15",
@@ -902,6 +984,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 83,
     "question": "When parking on a hill with no curb, turn your wheels:",
     "options": [
       "Toward the side of the road",
@@ -913,6 +996,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 84,
     "question": "What does a broken yellow line mean?",
     "options": [
       "Passing allowed when safe",
@@ -924,6 +1008,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 85,
     "question": "When driving through a tunnel, you must:",
     "options": [
       "Use headlights",
@@ -935,6 +1020,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 86,
     "question": "What is the purpose of a shoulder check?",
     "options": [
       "To check for neck pain",
@@ -946,6 +1032,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 87,
     "question": "When may you not open your car door?",
     "options": [
       "When it's unsafe to do so",
@@ -957,6 +1044,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 88,
     "question": "What should you do when approaching an ambulance stopped on the roadside?",
     "options": [
       "Speed up to pass quickly",
@@ -968,6 +1056,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 89,
     "question": "The speed limit near schools when children are not present is:",
     "options": [
       "40 km/h",
@@ -979,6 +1068,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 90,
     "question": "When backing out of a parking space, you should:",
     "options": [
       "Back out quickly",
@@ -990,6 +1080,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 91,
     "question": "What does a white X on a black background mean?",
     "options": [
       "Railway crossing ahead",
@@ -1001,6 +1092,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 92,
     "question": "When must you yield right-of-way?",
     "options": [
       "When entering from a driveway",
@@ -1012,6 +1104,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 93,
     "question": "How far ahead should you look when driving in the city?",
     "options": [
       "One block",
@@ -1023,6 +1116,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 94,
     "question": "What is graduated licensing designed to do?",
     "options": [
       "Make licensing faster",
@@ -1034,6 +1128,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 95,
     "question": "When should you not pass another vehicle?",
     "options": [
       "On curves",
@@ -1045,6 +1140,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 96,
     "question": "What does a stop sign with 'Except Right Turn' mean?",
     "options": [
       "You may turn right without stopping",
@@ -1056,6 +1152,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 97,
     "question": "When driving in winter conditions, you should:",
     "options": [
       "Warm up your vehicle",
@@ -1067,6 +1164,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 98,
     "question": "What should you do when a traffic light is not working?",
     "options": [
       "Treat it as a four-way stop",
@@ -1078,6 +1176,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 99,
     "question": "How close to a crosswalk may you park?",
     "options": [
       "3 metres",
@@ -1089,6 +1188,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 100,
     "question": "When driving behind a large truck, you should:",
     "options": [
       "Follow closely to draft",
@@ -1100,6 +1200,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 101,
     "question": "What does a Do Not Enter sign mean?",
     "options": [
       "Slow down and proceed carefully",
@@ -1111,6 +1212,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 102,
     "question": "When should you use your vehicle's defogger?",
     "options": [
       "Only in winter",
@@ -1122,6 +1224,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 103,
     "question": "What is the maximum speed in a playground zone?",
     "options": [
       "20 km/h",
@@ -1133,6 +1236,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 104,
     "question": "When entering a highway, you should check:",
     "options": [
       "Rearview mirror only",
@@ -1144,6 +1248,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 105,
     "question": "What should you do when driving through standing water?",
     "options": [
       "Drive through quickly",
@@ -1155,6 +1260,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 106,
     "question": "How long must you hold a G1 licence before taking the G2 test?",
     "options": [
       "6 months",
@@ -1166,6 +1272,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 107,
     "question": "When parking at a meter, you must:",
     "options": [
       "Pay for maximum time",
@@ -1177,6 +1284,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 108,
     "question": "What does a curved arrow sign mean?",
     "options": [
       "Curve ahead",
@@ -1188,6 +1296,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 109,
     "question": "When is it illegal to turn right on a red light?",
     "options": [
       "Always",
@@ -1199,6 +1308,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 110,
     "question": "What should you do when your gas pedal sticks?",
     "options": [
       "Turn off ignition",
@@ -1210,6 +1320,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 111,
     "question": "The G1 written test covers:",
     "options": [
       "Road signs only",
@@ -1221,6 +1332,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 112,
     "question": "When should you replace windshield wipers?",
     "options": [
       "Every year",
@@ -1232,6 +1344,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 113,
     "question": "What does a yellow diamond sign with a truck mean?",
     "options": [
       "Truck route",
@@ -1243,6 +1356,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 114,
     "question": "When driving at night on an unlit road, use:",
     "options": [
       "Low beam headlights",
@@ -1254,6 +1368,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 115,
     "question": "What should you do when approaching a stopped streetcar?",
     "options": [
       "Pass on the left",
@@ -1265,6 +1380,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 116,
     "question": "How many days do you have to report a name change to MTO?",
     "options": [
       "15 days",
@@ -1276,6 +1392,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 117,
     "question": "What does a keep right sign mean?",
     "options": [
       "Stay in right lane",
@@ -1287,6 +1404,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 118,
     "question": "When should you dim your dashboard lights?",
     "options": [
       "During the day",
@@ -1298,6 +1416,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 119,
     "question": "What is the speed limit on rural highways unless posted?",
     "options": [
       "80 km/h",
@@ -1309,6 +1428,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 120,
     "question": "When driving in a roundabout, you should:",
     "options": [
       "Stop before entering",
@@ -1320,6 +1440,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 121,
     "question": "What should you do when your tire blows out?",
     "options": [
       "Brake immediately",
@@ -1331,6 +1452,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 122,
     "question": "How far from a bus stop must you park?",
     "options": [
       "3 metres",
@@ -1342,6 +1464,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 123,
     "question": "What does a deer crossing sign warn of?",
     "options": [
       "Deer always present",
@@ -1353,6 +1476,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 124,
     "question": "When changing lanes on a freeway, you should:",
     "options": [
       "Signal and move immediately",
@@ -1364,6 +1488,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 125,
     "question": "What should you do when driving through a school zone?",
     "options": [
       "Honk to warn children",
@@ -1375,6 +1500,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 126,
     "question": "How many demerit points result in licence suspension for G1/G2 drivers?",
     "options": [
       "6 points",
@@ -1386,6 +1512,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 127,
     "question": "What does a pedestrian crossover sign look like?",
     "options": [
       "Red octagon",
@@ -1397,6 +1524,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 128,
     "question": "When must you stop for a school bus?",
     "options": [
       "Only when children are present",
@@ -1408,6 +1536,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 129,
     "question": "What should you do when engine overheats?",
     "options": [
       "Continue driving slowly",
@@ -1419,6 +1548,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 130,
     "question": "How close to a fire station entrance may you park?",
     "options": [
       "3 metres",
@@ -1430,6 +1560,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 131,
     "question": "When driving in fog, you should use:",
     "options": [
       "High beam headlights",
@@ -1441,6 +1572,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 132,
     "question": "What does a maximum speed sign indicate?",
     "options": [
       "Recommended speed",
@@ -1452,6 +1584,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 133,
     "question": "When should you use cruise control?",
     "options": [
       "In city traffic",
@@ -1463,6 +1596,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 134,
     "question": "What is the penalty for driving without insurance?",
     "options": [
       "Fine only",
@@ -1474,6 +1608,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 135,
     "question": "When exiting a freeway, you should:",
     "options": [
       "Slow down on the freeway",
@@ -1485,6 +1620,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 136,
     "question": "What does a slippery when wet sign warn of?",
     "options": [
       "Road always slippery",
@@ -1496,6 +1632,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 137,
     "question": "How often should you have your eyes tested for driving?",
     "options": [
       "Every year",
@@ -1507,6 +1644,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 138,
     "question": "When should you use headlights during the day?",
     "options": [
       "Never",
@@ -1518,6 +1656,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 139,
     "question": "What should you do at an intersection with a flashing red light?",
     "options": [
       "Slow down and proceed",
@@ -1529,6 +1668,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 140,
     "question": "How far ahead should you look when driving on highways?",
     "options": [
       "12 seconds",
@@ -1540,6 +1680,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 141,
     "question": "What does a wrong way sign mean?",
     "options": [
       "Turn around immediately",
@@ -1551,6 +1692,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 142,
     "question": "When parking on a street, you should:",
     "options": [
       "Park against traffic flow",
@@ -1562,6 +1704,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 143,
     "question": "What should you do when meeting an oncoming vehicle at night?",
     "options": [
       "Use high beams",
@@ -1573,6 +1716,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 144,
     "question": "How many passengers can a G1 driver carry?",
     "options": [
       "None",
@@ -1584,6 +1728,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 145,
     "question": "What does a yield to pedestrians sign mean?",
     "options": [
       "Pedestrians must yield",
@@ -1595,6 +1740,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 146,
     "question": "When should you check your speedometer?",
     "options": [
       "Only when police are present",
@@ -1606,6 +1752,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 147,
     "question": "What is the purpose of rumble strips?",
     "options": [
       "Decoration",
@@ -1617,6 +1764,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 148,
     "question": "How long can you park at a Green P meter?",
     "options": [
       "30 minutes",
@@ -1628,6 +1776,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 149,
     "question": "When backing up, you must yield to:",
     "options": [
       "No one",
@@ -1639,6 +1788,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 150,
     "question": "What should you do when approaching emergency vehicles?",
     "options": [
       "Speed up to clear the way",
@@ -1650,6 +1800,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 151,
     "question": "What does a stop sign with 'All Way' mean?",
     "options": [
       "Stop for all vehicles",
@@ -1661,6 +1812,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 152,
     "question": "When is the best time to check your mirrors?",
     "options": [
       "Every 5-8 seconds",
@@ -1672,6 +1824,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 153,
     "question": "What should you do when your headlights fail?",
     "options": [
       "Continue driving",
@@ -1683,6 +1836,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 154,
     "question": "How close to a pedestrian crossover may you park?",
     "options": [
       "No restriction",
@@ -1694,6 +1848,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 155,
     "question": "What does a bicycle lane sign indicate?",
     "options": [
       "No bicycles allowed",
@@ -1705,6 +1860,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 156,
     "question": "When driving through water on the road:",
     "options": [
       "Drive fast to get through",
@@ -1716,6 +1872,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 157,
     "question": "What is required to renew your licence?",
     "options": [
       "Photo ID",
@@ -1727,6 +1884,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 158,
     "question": "When should you signal when parking?",
     "options": [
       "Never",
@@ -1738,6 +1896,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 159,
     "question": "What does a construction zone sign mean?",
     "options": [
       "Road closed",
@@ -1749,6 +1908,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 160,
     "question": "How should you handle a vehicle that won't start?",
     "options": [
       "Keep trying to start it",
@@ -1760,6 +1920,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 161,
     "question": "What must you do when a pedestrian is crossing at a crosswalk?",
     "options": [
       "Sound horn to warn them",
@@ -1771,6 +1932,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 162,
     "question": "When may you drive in a bicycle lane?",
     "options": [
       "Never",
@@ -1782,6 +1944,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 163,
     "question": "What should you do if your accelerator pedal sticks?",
     "options": [
       "Turn off the ignition",
@@ -1793,6 +1956,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 164,
     "question": "How far from an intersection may you park?",
     "options": [
       "3 metres",
@@ -1804,6 +1968,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 165,
     "question": "What does a no entry sign look like?",
     "options": [
       "Red circle with white bar",
@@ -1815,6 +1980,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 166,
     "question": "When driving behind a snowplow, you should:",
     "options": [
       "Pass immediately",
@@ -1826,6 +1992,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 167,
     "question": "What is the fine for speeding 16-29 km/h over the limit?",
     "options": [
       "$40",
@@ -1837,6 +2004,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 168,
     "question": "When should you use your hazard lights while driving?",
     "options": [
       "In heavy rain",
@@ -1848,6 +2016,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 169,
     "question": "What does a maximum load sign indicate?",
     "options": [
       "Bridge weight limit",
@@ -1859,6 +2028,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 170,
     "question": "How long must you hold a G2 licence before taking the G test?",
     "options": [
       "6 months",
@@ -1870,6 +2040,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 171,
     "question": "When approaching a yield sign, you must:",
     "options": [
       "Always stop",
@@ -1881,6 +2052,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 172,
     "question": "What should you do when driving through a puddle?",
     "options": [
       "Drive through quickly",
@@ -1892,6 +2064,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 173,
     "question": "What does a school bus loading sign mean?",
     "options": [
       "School zone ahead",
@@ -1903,6 +2076,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 174,
     "question": "When parallel parking, your first step should be:",
     "options": [
       "Turn on signal",
@@ -1914,6 +2088,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 175,
     "question": "What is the penalty for careless driving?",
     "options": [
       "Warning only",
@@ -1925,6 +2100,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 176,
     "question": "When should you replace your vehicle registration?",
     "options": [
       "Every year",
@@ -1936,6 +2112,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 177,
     "question": "What does a steep grade sign warn of?",
     "options": [
       "Sharp curve ahead",
@@ -1947,6 +2124,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 178,
     "question": "How should you position your hands on the steering wheel?",
     "options": [
       "10 and 2 o'clock",
@@ -1958,6 +2136,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 179,
     "question": "What must you do before moving your vehicle from a parked position?",
     "options": [
       "Sound horn",
@@ -1969,6 +2148,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 180,
     "question": "When driving near a cyclist, you must leave at least:",
     "options": [
       "0.5 metres clearance",
@@ -1980,6 +2160,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 181,
     "question": "What does a falling rock sign warn of?",
     "options": [
       "Landslide area",
@@ -1991,6 +2172,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 182,
     "question": "When should you check your vehicle's oil?",
     "options": [
       "Weekly",
@@ -2002,6 +2184,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 183,
     "question": "What is the speed limit in a community safety zone?",
     "options": [
       "Same as posted",
@@ -2013,6 +2196,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 184,
     "question": "How close to a driveway may you park?",
     "options": [
       "No restriction",
@@ -2024,6 +2208,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 185,
     "question": "What should you do when your vehicle hydroplanes?",
     "options": [
       "Brake hard",
@@ -2035,6 +2220,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 186,
     "question": "What does a merge sign look like?",
     "options": [
       "Circle",
@@ -2046,6 +2232,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 187,
     "question": "When must you report a collision to police?",
     "options": [
       "Always",
@@ -2057,6 +2244,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 188,
     "question": "What should you do when exiting a parking lot?",
     "options": [
       "Speed up to merge",
@@ -2068,6 +2256,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 189,
     "question": "What does a no trucks sign mean?",
     "options": [
       "Trucks prohibited",
@@ -2079,6 +2268,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 190,
     "question": "When driving in winter, you should:",
     "options": [
       "Keep gas tank full",
@@ -2090,6 +2280,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 191,
     "question": "What is the maximum blood alcohol for commercial drivers?",
     "options": [
       "0.08%",
@@ -2101,6 +2292,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 192,
     "question": "How often should you shoulder check when driving?",
     "options": [
       "Never",
@@ -2112,6 +2304,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 193,
     "question": "What does a divided highway sign indicate?",
     "options": [
       "Highway divides ahead",
@@ -2123,6 +2316,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 194,
     "question": "When should you use low gear?",
     "options": [
       "Going uphill only",
@@ -2134,6 +2328,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 195,
     "question": "What must you do when entering Ontario from another province?",
     "options": [
       "Nothing",
@@ -2145,6 +2340,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 196,
     "question": "What does a winding road sign warn of?",
     "options": [
       "Series of curves ahead",
@@ -2156,6 +2352,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 197,
     "question": "When parking uphill without a curb, turn wheels:",
     "options": [
       "Away from road edge",
@@ -2167,6 +2364,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 198,
     "question": "What should you do when approaching a fresh green light?",
     "options": [
       "Speed up",
@@ -2178,6 +2376,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 199,
     "question": "What does a narrow bridge sign mean?",
     "options": [
       "Bridge ahead",
@@ -2189,6 +2388,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 200,
     "question": "When is it acceptable to exceed the speed limit?",
     "options": [
       "Never",
@@ -2200,6 +2400,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 201,
     "question": "What does a rectangular white sign with black text indicate?",
     "options": [
       "Warning",
@@ -2211,6 +2412,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 202,
     "question": "A sign showing a red circle with a diagonal red line means:",
     "options": [
       "Warning",
@@ -2222,6 +2424,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 203,
     "question": "What does a blue circular sign indicate?",
     "options": [
       "Mandatory action",
@@ -2233,6 +2436,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 204,
     "question": "A brown sign typically indicates:",
     "options": [
       "Construction",
@@ -2244,6 +2448,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 205,
     "question": "What does a green sign typically show?",
     "options": [
       "Warnings",
@@ -2255,6 +2460,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 206,
     "question": "A flashing amber light at an intersection means:",
     "options": [
       "Stop completely",
@@ -2266,6 +2472,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 207,
     "question": "What does a lane control signal X mean?",
     "options": [
       "Lane closed",
@@ -2277,6 +2484,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 208,
     "question": "A green arrow pointing down over a lane means:",
     "options": [
       "Lane closed",
@@ -2288,6 +2496,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 209,
     "question": "What does a white reflector on the road indicate?",
     "options": [
       "Lane divider",
@@ -2299,6 +2508,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 210,
     "question": "Red reflectors on the road indicate:",
     "options": [
       "Lane divider",
@@ -2310,6 +2520,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 211,
     "question": "Yellow reflectors typically mark:",
     "options": [
       "Lane dividers",
@@ -2321,6 +2532,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 212,
     "question": "What do blue reflectors on the road indicate?",
     "options": [
       "Fire hydrant location",
@@ -2332,6 +2544,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 213,
     "question": "A chevron sign indicates:",
     "options": [
       "Sharp curve direction",
@@ -2343,6 +2556,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 214,
     "question": "What does a pennant-shaped sign warn of?",
     "options": [
       "School zone",
@@ -2354,6 +2568,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 215,
     "question": "An octagonal sign is always:",
     "options": [
       "Red",
@@ -2365,6 +2580,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 216,
     "question": "What does a crossbuck sign indicate?",
     "options": [
       "Four-way stop",
@@ -2376,6 +2592,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 217,
     "question": "A sign with a bicycle symbol and 'XING' means:",
     "options": [
       "Bicycle lane",
@@ -2387,6 +2604,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 218,
     "question": "What does 'PED XING' on a sign mean?",
     "options": [
       "Pedestrian crossing",
@@ -2398,6 +2616,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 219,
     "question": "A sign showing two cars with an arrow means:",
     "options": [
       "Passing zone",
@@ -2409,6 +2628,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 220,
     "question": "What does a 'WRONG WAY' sign indicate?",
     "options": [
       "Turn around",
@@ -2420,6 +2640,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 221,
     "question": "How long can you hold a G1 licence without upgrading?",
     "options": [
       "3 years",
@@ -2431,6 +2652,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 222,
     "question": "What happens if your G1 licence expires?",
     "options": [
       "Automatic renewal",
@@ -2442,6 +2664,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 223,
     "question": "With a G1 licence, you cannot drive between:",
     "options": [
       "10 PM and 6 AM",
@@ -2453,6 +2676,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 224,
     "question": "A G1 driver must be accompanied by someone with:",
     "options": [
       "Any licence",
@@ -2464,6 +2688,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 225,
     "question": "What is the vision requirement for a driver's licence?",
     "options": [
       "20/20",
@@ -2475,6 +2700,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 226,
     "question": "How often must drivers over 80 renew their licence?",
     "options": [
       "Every year",
@@ -2486,6 +2712,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 227,
     "question": "What must you report to the MTO within 6 days?",
     "options": [
       "Address change",
@@ -2497,6 +2724,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 228,
     "question": "If you move to Ontario from another country, when must you get an Ontario licence?",
     "options": [
       "Immediately",
@@ -2508,6 +2736,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 229,
     "question": "What is required to take the G2 road test?",
     "options": [
       "G1 for 8 months",
@@ -2519,6 +2748,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 230,
     "question": "A G2 driver cannot have any alcohol in their system for how long?",
     "options": [
       "6 months",
@@ -2530,6 +2760,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 231,
     "question": "What must you do if you change your address?",
     "options": [
       "Nothing required",
@@ -2541,6 +2772,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 232,
     "question": "If your licence is suspended, when can you drive again?",
     "options": [
       "Immediately after paying fines",
@@ -2552,6 +2784,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 233,
     "question": "What is the minimum tire tread depth in Ontario?",
     "options": [
       "1.0 mm",
@@ -2563,6 +2796,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 234,
     "question": "How often should you check your tire pressure?",
     "options": [
       "Daily",
@@ -2574,6 +2808,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 235,
     "question": "What should the proper tire pressure be?",
     "options": [
       "Maximum on tire sidewall",
@@ -2585,6 +2820,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 236,
     "question": "How can you check if your headlights are properly aimed?",
     "options": [
       "Visual inspection only",
@@ -2596,6 +2832,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 237,
     "question": "When should you replace your air filter?",
     "options": [
       "Every 6 months",
@@ -2607,6 +2844,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 238,
     "question": "How often should you check your oil level?",
     "options": [
       "Daily",
@@ -2618,6 +2856,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 239,
     "question": "What colour should engine coolant be?",
     "options": [
       "Always green",
@@ -2629,6 +2868,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 240,
     "question": "When should you check your brake fluid?",
     "options": [
       "Monthly",
@@ -2640,6 +2880,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 241,
     "question": "What does ABS stand for?",
     "options": [
       "Anti-Brake System",
@@ -2651,6 +2892,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 242,
     "question": "If your ABS warning light stays on, you should:",
     "options": [
       "Continue driving normally",
@@ -2662,6 +2904,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 243,
     "question": "What should you do if your temperature gauge shows overheating?",
     "options": [
       "Continue to nearest service station",
@@ -2673,6 +2916,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 244,
     "question": "How should you clean your windshield?",
     "options": [
       "With paper towels only",
@@ -2684,6 +2928,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 245,
     "question": "When should you use your defroster?",
     "options": [
       "Only in winter",
@@ -2695,6 +2940,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 246,
     "question": "What is the proper following distance in ideal conditions?",
     "options": [
       "1 second per 10 km/h",
@@ -2706,6 +2952,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 247,
     "question": "In wet conditions, increase following distance to:",
     "options": [
       "3 seconds",
@@ -2717,6 +2964,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 248,
     "question": "In icy conditions, increase following distance to:",
     "options": [
       "4 seconds",
@@ -2728,6 +2976,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 249,
     "question": "When driving in heavy rain, you should:",
     "options": [
       "Use high beams",
@@ -2739,6 +2988,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 250,
     "question": "What is aquaplaning (hydroplaning)?",
     "options": [
       "Tire overheating",
@@ -2750,6 +3000,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 251,
     "question": "To avoid hydroplaning, you should:",
     "options": [
       "Drive faster",
@@ -2761,6 +3012,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 252,
     "question": "In fog with visibility less than 150 metres, you should:",
     "options": [
       "Use high beams",
@@ -2772,6 +3024,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 253,
     "question": "When driving in snow, you should:",
     "options": [
       "Use cruise control",
@@ -2783,6 +3036,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 254,
     "question": "What causes most skids?",
     "options": [
       "Mechanical failure",
@@ -2794,6 +3048,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 255,
     "question": "If your vehicle goes into a front-wheel skid:",
     "options": [
       "Steer in direction of skid",
@@ -2805,6 +3060,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 256,
     "question": "If your rear wheels skid to the right:",
     "options": [
       "Steer left",
@@ -2816,6 +3072,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 257,
     "question": "When driving at night, you should:",
     "options": [
       "Always use high beams",
@@ -2827,6 +3084,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 258,
     "question": "Your headlights should illuminate the road ahead for:",
     "options": [
       "50 metres",
@@ -2838,6 +3096,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 259,
     "question": "When should you dim your high beams?",
     "options": [
       "Never",
@@ -2849,6 +3108,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 260,
     "question": "How far behind another vehicle should you dim your high beams?",
     "options": [
       "30 metres",
@@ -2860,6 +3120,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 261,
     "question": "What should you do when an oncoming vehicle doesn't dim their lights?",
     "options": [
       "Flash your high beams",
@@ -2871,6 +3132,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 262,
     "question": "Fatigue is most dangerous when driving:",
     "options": [
       "In the morning",
@@ -2882,6 +3144,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 263,
     "question": "What is the best way to stay alert while driving?",
     "options": [
       "Drink coffee",
@@ -2893,6 +3156,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 264,
     "question": "You should take a break from driving every:",
     "options": [
       "30 minutes",
@@ -2904,6 +3168,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 265,
     "question": "What is road rage?",
     "options": [
       "Mechanical problems",
@@ -2915,6 +3180,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 266,
     "question": "If confronted by an aggressive driver, you should:",
     "options": [
       "Fight back",
@@ -2926,6 +3192,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 267,
     "question": "The most common cause of collisions is:",
     "options": [
       "Mechanical failure",
@@ -2937,6 +3204,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 268,
     "question": "What should you do at an uncontrolled intersection?",
     "options": [
       "Go first",
@@ -2948,6 +3216,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 269,
     "question": "When two vehicles arrive at a 4-way stop simultaneously:",
     "options": [
       "Left turn yields",
@@ -2959,6 +3228,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 270,
     "question": "When turning left, you must yield to:",
     "options": [
       "Oncoming traffic",
@@ -2970,6 +3240,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 271,
     "question": "At a T-intersection, who has right-of-way?",
     "options": [
       "Vehicle turning",
@@ -2981,6 +3252,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 272,
     "question": "When entering a traffic circle, you must:",
     "options": [
       "Stop first",
@@ -2992,6 +3264,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 273,
     "question": "How do you exit a traffic circle?",
     "options": [
       "Signal left",
@@ -3003,6 +3276,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 274,
     "question": "When changing lanes, you must:",
     "options": [
       "Signal for 3 seconds",
@@ -3014,6 +3288,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 275,
     "question": "You may not change lanes:",
     "options": [
       "On curves",
@@ -3025,6 +3300,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 276,
     "question": "When is it legal to exceed the speed limit?",
     "options": [
       "Never",
@@ -3036,6 +3312,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 277,
     "question": "What is the speed limit near schools when children are present?",
     "options": [
       "30 km/h",
@@ -3047,6 +3324,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 278,
     "question": "In a community safety zone, fines are:",
     "options": [
       "The same",
@@ -3058,6 +3336,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 279,
     "question": "You must not park within how many metres of a railway crossing?",
     "options": [
       "5 metres",
@@ -3069,6 +3348,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 280,
     "question": "When approaching a railway crossing with flashing lights:",
     "options": [
       "Slow down and proceed",
@@ -3080,6 +3360,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 281,
     "question": "You may pass on the right when:",
     "options": [
       "The vehicle ahead is turning left",
@@ -3091,6 +3372,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 282,
     "question": "Where is passing prohibited?",
     "options": [
       "On hills",
@@ -3102,6 +3384,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 283,
     "question": "You must signal before turning for at least:",
     "options": [
       "30 metres",
@@ -3113,6 +3396,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 284,
     "question": "When may you make a U-turn?",
     "options": [
       "Anytime it's safe",
@@ -3124,6 +3408,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 285,
     "question": "U-turns are prohibited:",
     "options": [
       "On curves",
@@ -3135,6 +3420,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 286,
     "question": "When turning right on a red light, you must:",
     "options": [
       "Stop first",
@@ -3146,6 +3432,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 287,
     "question": "You may not turn right on red:",
     "options": [
       "At any intersection",
@@ -3157,6 +3444,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 288,
     "question": "When entering a freeway, you should:",
     "options": [
       "Stop at the end of the ramp",
@@ -3168,6 +3456,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 289,
     "question": "The left lane on a multi-lane highway is for:",
     "options": [
       "Faster traffic",
@@ -3179,6 +3468,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 290,
     "question": "You should drive in the right lane when:",
     "options": [
       "Going slower than traffic flow",
@@ -3190,6 +3480,7 @@
     "reference": "Chapter 5 - Traffic Laws"
   },
   {
+    "id": 291,
     "question": "How far from a bus stop must you not park?",
     "options": [
       "3 metres",
@@ -3201,6 +3492,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 292,
     "question": "You may not park within how many metres of a fire hydrant?",
     "options": [
       "3 metres",
@@ -3212,6 +3504,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 293,
     "question": "How close to a crosswalk may you park?",
     "options": [
       "3 metres",
@@ -3223,6 +3516,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 294,
     "question": "You may not park within how many metres of a stop sign?",
     "options": [
       "3 metres",
@@ -3234,6 +3528,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 295,
     "question": "When parallel parking, you should be within what distance of the curb?",
     "options": [
       "15 cm",
@@ -3245,6 +3540,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 296,
     "question": "When parking on a hill, you should:",
     "options": [
       "Leave in gear",
@@ -3256,6 +3552,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 297,
     "question": "When leaving a parking space, you must:",
     "options": [
       "Signal your intention",
@@ -3267,6 +3564,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 298,
     "question": "You may not park:",
     "options": [
       "On a bridge",
@@ -3278,6 +3576,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 299,
     "question": "In angle parking, you should park:",
     "options": [
       "At any angle",
@@ -3289,6 +3588,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 300,
     "question": "When backing out of a parking space:",
     "options": [
       "Back out quickly",
@@ -3300,6 +3600,7 @@
     "reference": "Chapter 6 - Parking"
   },
   {
+    "id": 301,
     "question": "If your engine stalls in traffic:",
     "options": [
       "Leave it and walk away",
@@ -3311,6 +3612,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 302,
     "question": "If your brakes fail completely:",
     "options": [
       "Pump the brake pedal",
@@ -3322,6 +3624,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 303,
     "question": "If your accelerator sticks:",
     "options": [
       "Turn off ignition immediately",
@@ -3333,6 +3636,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 304,
     "question": "If your steering fails:",
     "options": [
       "Brake immediately",
@@ -3344,6 +3648,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 305,
     "question": "If you have a tire blowout:",
     "options": [
       "Brake hard immediately",
@@ -3355,6 +3660,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 306,
     "question": "If your headlights fail at night:",
     "options": [
       "Use parking lights",
@@ -3366,6 +3672,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 307,
     "question": "If you're in a collision, first:",
     "options": [
       "Move vehicles out of traffic",
@@ -3377,6 +3684,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 308,
     "question": "You must report a collision to police if:",
     "options": [
       "Any damage occurs",
@@ -3388,6 +3696,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 309,
     "question": "If your vehicle catches fire:",
     "options": [
       "Try to put it out yourself",
@@ -3399,6 +3708,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 310,
     "question": "If you go off the road:",
     "options": [
       "Turn sharply back onto road",
@@ -3410,6 +3720,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 311,
     "question": "When driving near pedestrians, you should:",
     "options": [
       "Sound horn to warn them",
@@ -3421,6 +3732,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 312,
     "question": "Pedestrians have right-of-way:",
     "options": [
       "Only at crosswalks",
@@ -3432,6 +3744,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 313,
     "question": "When a pedestrian is crossing illegally, you should:",
     "options": [
       "Sound horn loudly",
@@ -3443,6 +3756,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 314,
     "question": "You see a pedestrian with a white cane, you should:",
     "options": [
       "Offer to help",
@@ -3454,6 +3768,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 315,
     "question": "A guide dog is identified by:",
     "options": [
       "Red collar",
@@ -3465,6 +3780,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 316,
     "question": "When driving near cyclists:",
     "options": [
       "Treat them like vehicles",
@@ -3476,6 +3792,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 317,
     "question": "You must leave at least how much space when passing a cyclist?",
     "options": [
       "0.5 metres",
@@ -3487,6 +3804,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 318,
     "question": "Cyclists are required to:",
     "options": [
       "Ride on sidewalks",
@@ -3498,6 +3816,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 319,
     "question": "When turning right and a cyclist is present:",
     "options": [
       "You have right-of-way",
@@ -3509,6 +3828,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 320,
     "question": "Motorcyclists are entitled to:",
     "options": [
       "Half a lane",
@@ -3520,6 +3840,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 321,
     "question": "When following a motorcycle:",
     "options": [
       "Follow closer than cars",
@@ -3531,6 +3852,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 322,
     "question": "Large trucks have:",
     "options": [
       "Shorter stopping distances",
@@ -3542,6 +3864,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 323,
     "question": "You should not follow closely behind trucks because:",
     "options": [
       "They stop quickly",
@@ -3553,6 +3876,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 324,
     "question": "When passing a large truck:",
     "options": [
       "Pass on the right",
@@ -3564,6 +3888,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 325,
     "question": "School buses with flashing red lights:",
     "options": [
       "May be passed carefully",
@@ -3575,6 +3900,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 326,
     "question": "You may pass a stopped school bus:",
     "options": [
       "If lights aren't flashing",
@@ -3586,6 +3912,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 327,
     "question": "When an emergency vehicle approaches from behind:",
     "options": [
       "Speed up",
@@ -3597,6 +3924,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 328,
     "question": "You must move over for:",
     "options": [
       "Police vehicles",
@@ -3608,6 +3936,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 329,
     "question": "If you can't pull over for emergency vehicles:",
     "options": [
       "Speed up",
@@ -3619,6 +3948,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 330,
     "question": "Construction zone speed limits:",
     "options": [
       "Are suggestions",
@@ -3630,6 +3960,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 331,
     "question": "In construction zones you should:",
     "options": [
       "Maintain normal speed",
@@ -3641,6 +3972,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 332,
     "question": "Highway maintenance vehicles:",
     "options": [
       "Have no special rights",
@@ -3652,6 +3984,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 333,
     "question": "What is the penalty for impaired driving (first offense)?",
     "options": [
       "Warning only",
@@ -3663,6 +3996,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 334,
     "question": "Novice drivers (G1/G2) with any alcohol face:",
     "options": [
       "Warning",
@@ -3674,6 +4008,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 335,
     "question": "Street racing penalties include:",
     "options": [
       "Fine only",
@@ -3685,6 +4020,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 336,
     "question": "Careless driving can result in:",
     "options": [
       "Warning",
@@ -3696,6 +4032,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 337,
     "question": "How many demerit points for speeding 16-29 km/h over?",
     "options": [
       "2 points",
@@ -3707,6 +4044,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 338,
     "question": "How many demerit points for running a red light?",
     "options": [
       "2 points",
@@ -3718,6 +4056,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 339,
     "question": "Failing to stop for a school bus results in:",
     "options": [
       "3 demerit points",
@@ -3729,6 +4068,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 340,
     "question": "How many demerit points result in licence suspension for fully licensed drivers?",
     "options": [
       "6 points",
@@ -3740,6 +4080,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 341,
     "question": "Demerit points remain on your record for:",
     "options": [
       "1 year",
@@ -3751,6 +4092,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 342,
     "question": "If you accumulate too many points:",
     "options": [
       "Nothing happens",
@@ -3762,6 +4104,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 343,
     "question": "Refusing a breathalyzer test results in:",
     "options": [
       "No penalty",
@@ -3773,6 +4116,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 344,
     "question": "The penalty for driving without insurance includes:",
     "options": [
       "Fine only",
@@ -3784,6 +4128,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 345,
     "question": "Using a handheld device while driving results in:",
     "options": [
       "Warning",
@@ -3795,6 +4140,7 @@
     "reference": "Chapter 9 - Penalties"
   },
   {
+    "id": 346,
     "question": "What does a solid yellow line on your left mean?",
     "options": [
       "You may pass",
@@ -3806,6 +4152,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 347,
     "question": "Double solid yellow lines mean:",
     "options": [
       "Passing allowed",
@@ -3817,6 +4164,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 348,
     "question": "A broken yellow line on your side means:",
     "options": [
       "No passing",
@@ -3828,6 +4176,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 349,
     "question": "What do zigzag lines near a crosswalk mean?",
     "options": [
       "No parking or stopping",
@@ -3839,6 +4188,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 350,
     "question": "Rumble strips are used to:",
     "options": [
       "Slow traffic",
@@ -3850,6 +4200,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 351,
     "question": "What does a thick white line across your lane mean?",
     "options": [
       "Speed up",
@@ -3861,6 +4212,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 352,
     "question": "Hatched markings on the road indicate:",
     "options": [
       "No driving zone",
@@ -3872,6 +4224,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 353,
     "question": "A diamond painted on the road indicates:",
     "options": [
       "HOV lane",
@@ -3883,6 +4236,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 354,
     "question": "What does 'ONLY' painted on the road mean?",
     "options": [
       "Speed limit",
@@ -3894,6 +4248,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 355,
     "question": "Arrows painted on the road indicate:",
     "options": [
       "Speed limit",
@@ -3905,6 +4260,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 356,
     "question": "What does a painted bicycle symbol mean?",
     "options": [
       "Bicycle crossing",
@@ -3916,6 +4272,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 357,
     "question": "Words painted on the road:",
     "options": [
       "Are suggestions",
@@ -3927,6 +4284,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 358,
     "question": "What does 'SCHOOL' painted on the road indicate?",
     "options": [
       "School zone ahead",
@@ -3938,6 +4296,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 359,
     "question": "A fire route sign means:",
     "options": [
       "Fire trucks only",
@@ -3949,6 +4308,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 360,
     "question": "What does a 'No Standing' sign mean?",
     "options": [
       "No stopping for any reason",
@@ -3960,6 +4320,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 361,
     "question": "A 'Loading Zone' sign means:",
     "options": [
       "Anyone can park",
@@ -3971,6 +4332,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 362,
     "question": "What does a 'Permit Parking Only' sign mean?",
     "options": [
       "Anyone with a permit",
@@ -3982,6 +4344,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 363,
     "question": "Time limit parking signs apply:",
     "options": [
       "24 hours a day",
@@ -3993,6 +4356,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 364,
     "question": "A 'Tow Away Zone' sign means:",
     "options": [
       "Warnings only",
@@ -4004,6 +4368,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 365,
     "question": "What does 'Except Sunday' on a parking sign mean?",
     "options": [
       "Restrictions don't apply Sunday",
@@ -4015,6 +4380,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 366,
     "question": "A sign showing '2 Hour Parking 9 AM - 6 PM' means:",
     "options": [
       "Park for 2 hours anytime",
@@ -4026,6 +4392,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 367,
     "question": "What does a wheelchair symbol on a sign indicate?",
     "options": [
       "Hospital zone",
@@ -4037,6 +4404,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 368,
     "question": "Disabled parking spaces are:",
     "options": [
       "Suggestions",
@@ -4048,6 +4416,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 369,
     "question": "To park in a disabled space you need:",
     "options": [
       "Visible disability",
@@ -4059,6 +4428,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 370,
     "question": "What does an 'Electric Vehicle Only' sign mean?",
     "options": [
       "Hybrid vehicles allowed",
@@ -4070,6 +4440,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 371,
     "question": "A 'Compact Car Only' sign means:",
     "options": [
       "Small cars only",
@@ -4081,6 +4452,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 372,
     "question": "What does a 'Customer Parking Only' sign mean?",
     "options": [
       "Anyone can park",
@@ -4092,6 +4464,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 373,
     "question": "Maximum speed signs show:",
     "options": [
       "Recommended speed",
@@ -4103,6 +4476,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 374,
     "question": "Minimum speed signs show:",
     "options": [
       "Recommended speed",
@@ -4114,6 +4488,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 375,
     "question": "What does a 'Trucks Prohibited' sign mean?",
     "options": [
       "No commercial vehicles",
@@ -4125,6 +4500,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 376,
     "question": "A 'Left Turn on Red Arrow Only' sign means:",
     "options": [
       "Never turn left on red",
@@ -4136,6 +4512,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 377,
     "question": "What does 'No Right Turn on Red' sign mean?",
     "options": [
       "Never turn right",
@@ -4147,6 +4524,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 378,
     "question": "A 'Yield to Pedestrians' sign means:",
     "options": [
       "Pedestrians always have right-of-way",
@@ -4158,6 +4536,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 379,
     "question": "What does a 'Bus Lane' sign indicate?",
     "options": [
       "Buses only during posted hours",
@@ -4169,6 +4548,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 380,
     "question": "An HOV lane sign means:",
     "options": [
       "High occupancy vehicles only",
@@ -4180,6 +4560,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 381,
     "question": "What qualifies as an HOV vehicle?",
     "options": [
       "Any vehicle",
@@ -4191,6 +4572,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 382,
     "question": "Can motorcycles use HOV lanes?",
     "options": [
       "Never",
@@ -4202,6 +4584,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 383,
     "question": "What does a 'Keep Right' sign mean?",
     "options": [
       "Stay in right lane",
@@ -4213,6 +4596,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 384,
     "question": "A 'Lane Ends' sign warns:",
     "options": [
       "Construction ahead",
@@ -4224,6 +4608,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 385,
     "question": "What does a 'Detour' sign indicate?",
     "options": [
       "Road closed ahead",
@@ -4235,6 +4620,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 386,
     "question": "A 'Bridge Out' sign means:",
     "options": [
       "Bridge under repair",
@@ -4246,6 +4632,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 387,
     "question": "What does a 'Soft Shoulder' sign warn of?",
     "options": [
       "Shoulder under construction",
@@ -4257,6 +4644,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 388,
     "question": "A 'Slippery When Wet' sign warns:",
     "options": [
       "Road always slippery",
@@ -4268,6 +4656,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 389,
     "question": "What does a 'Bump' sign indicate?",
     "options": [
       "Construction ahead",
@@ -4279,6 +4668,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 390,
     "question": "A 'Dip' sign warns of:",
     "options": [
       "Road construction",
@@ -4290,6 +4680,7 @@
     "reference": "Chapter 1 - Signs, Signals and Road Markings"
   },
   {
+    "id": 391,
     "question": "When should you dim your high beams for oncoming motorcycles?",
     "options": [
       "Same as for cars",
@@ -4301,6 +4692,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 392,
     "question": "In heavy fog, you should use:",
     "options": [
       "High beam headlights",
@@ -4312,6 +4704,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 393,
     "question": "What is the safest way to drive in fog?",
     "options": [
       "Pull over and wait",
@@ -4323,6 +4716,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 394,
     "question": "Black ice is most likely to form:",
     "options": [
       "In sunny weather",
@@ -4334,6 +4728,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 395,
     "question": "If you encounter black ice, you should:",
     "options": [
       "Brake immediately",
@@ -4345,6 +4740,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 396,
     "question": "Winter tires should be used when:",
     "options": [
       "Temperature is below 7\u00b0C consistently",
@@ -4356,6 +4752,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 397,
     "question": "What is the proper way to warm up your car in winter?",
     "options": [
       "Let it idle for 10 minutes",
@@ -4367,6 +4764,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 398,
     "question": "Snow tires should be:",
     "options": [
       "On front wheels only",
@@ -4378,6 +4776,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 399,
     "question": "When driving through a snowstorm:",
     "options": [
       "Use cruise control",
@@ -4389,6 +4788,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 400,
     "question": "If you get stuck in snow:",
     "options": [
       "Gun the engine",
@@ -4400,6 +4800,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 401,
     "question": "What should you carry in winter driving conditions?",
     "options": [
       "Blanket and emergency supplies",
@@ -4411,6 +4812,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 402,
     "question": "Carbon monoxide is dangerous because it:",
     "options": [
       "Has a strong odor",
@@ -4422,6 +4824,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 403,
     "question": "Carbon monoxide poisoning symptoms include:",
     "options": [
       "Alertness",
@@ -4433,6 +4836,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 404,
     "question": "To prevent carbon monoxide poisoning:",
     "options": [
       "Keep windows closed",
@@ -4444,6 +4848,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 405,
     "question": "What is the most important factor in stopping distance?",
     "options": [
       "Vehicle weight",
@@ -4455,6 +4860,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 406,
     "question": "Stopping distance includes:",
     "options": [
       "Thinking distance only",
@@ -4466,6 +4872,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 407,
     "question": "Thinking distance is affected by:",
     "options": [
       "Speed",
@@ -4477,6 +4884,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 408,
     "question": "At 50 km/h, total stopping distance on dry pavement is approximately:",
     "options": [
       "15 metres",
@@ -4488,6 +4896,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 409,
     "question": "Braking distance increases dramatically when:",
     "options": [
       "Speed doubles",
@@ -4499,6 +4908,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 410,
     "question": "Anti-lock brakes (ABS) help prevent:",
     "options": [
       "Stopping too quickly",
@@ -4510,6 +4920,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 411,
     "question": "With ABS brakes, you should:",
     "options": [
       "Pump the brakes",
@@ -4521,6 +4932,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 412,
     "question": "If your ABS warning light comes on:",
     "options": [
       "Stop driving immediately",
@@ -4532,6 +4944,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 413,
     "question": "What is brake fade?",
     "options": [
       "Brakes getting hot and losing effectiveness",
@@ -4543,6 +4956,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 414,
     "question": "Brake fade is most likely when:",
     "options": [
       "Driving in city",
@@ -4554,6 +4968,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 415,
     "question": "To avoid brake fade on long downhills:",
     "options": [
       "Use lower gear",
@@ -4565,6 +4980,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 416,
     "question": "What should you do if your brakes get wet?",
     "options": [
       "Test them by applying gently",
@@ -4576,6 +4992,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 417,
     "question": "Power steering failure means:",
     "options": [
       "You cannot steer",
@@ -4587,6 +5004,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 418,
     "question": "If power steering fails:",
     "options": [
       "Stop immediately",
@@ -4598,6 +5016,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 419,
     "question": "What causes tire blowouts?",
     "options": [
       "Under-inflation",
@@ -4609,6 +5028,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 420,
     "question": "Signs of tire problems include:",
     "options": [
       "Vibration",
@@ -4620,6 +5040,7 @@
     "reference": "Chapter 4 - Safe and Responsible Driving"
   },
   {
+    "id": 421,
     "question": "How often should you rotate your tires?",
     "options": [
       "Every 3 months",
@@ -4631,6 +5052,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 422,
     "question": "Tire pressure should be checked:",
     "options": [
       "When tires are hot",
@@ -4642,6 +5064,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 423,
     "question": "What can cause uneven tire wear?",
     "options": [
       "Poor alignment",
@@ -4653,6 +5076,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 424,
     "question": "The spare tire should be:",
     "options": [
       "Checked regularly",
@@ -4664,6 +5088,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 425,
     "question": "When changing a tire, you should:",
     "options": [
       "Work in traffic",
@@ -4675,6 +5100,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 426,
     "question": "What should you check in your engine oil?",
     "options": [
       "Level only",
@@ -4686,6 +5112,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 427,
     "question": "Dark, thick oil indicates:",
     "options": [
       "Good condition",
@@ -4697,6 +5124,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 428,
     "question": "Engine coolant should be:",
     "options": [
       "Checked when engine is hot",
@@ -4708,6 +5136,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 429,
     "question": "Low coolant can cause:",
     "options": [
       "Engine overheating",
@@ -4719,6 +5148,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 430,
     "question": "Brake fluid should be:",
     "options": [
       "Clear or light colored",
@@ -4730,6 +5160,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 431,
     "question": "If brake fluid is dark or contaminated:",
     "options": [
       "Continue driving",
@@ -4741,6 +5172,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 432,
     "question": "Power steering fluid should be:",
     "options": [
       "At minimum level",
@@ -4752,6 +5184,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 433,
     "question": "Transmission fluid should be checked:",
     "options": [
       "Engine off",
@@ -4763,6 +5196,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 434,
     "question": "What does red fluid under your car likely indicate?",
     "options": [
       "Transmission fluid leak",
@@ -4774,6 +5208,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 435,
     "question": "Green fluid under your car likely indicates:",
     "options": [
       "Oil leak",
@@ -4785,6 +5220,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 436,
     "question": "Your vehicle pulls to one side when braking. This indicates:",
     "options": [
       "Normal wear",
@@ -4796,6 +5232,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 437,
     "question": "A grinding noise when braking indicates:",
     "options": [
       "Normal operation",
@@ -4807,6 +5244,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 438,
     "question": "Your steering wheel vibrates. This could indicate:",
     "options": [
       "Tire imbalance",
@@ -4818,6 +5256,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 439,
     "question": "White smoke from exhaust indicates:",
     "options": [
       "Normal operation",
@@ -4829,6 +5268,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 440,
     "question": "Blue smoke from exhaust indicates:",
     "options": [
       "Normal operation",
@@ -4840,6 +5280,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 441,
     "question": "Your engine overheats. You should:",
     "options": [
       "Continue driving slowly",
@@ -4851,6 +5292,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 442,
     "question": "If your oil pressure warning light comes on:",
     "options": [
       "Continue driving",
@@ -4862,6 +5304,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 443,
     "question": "If your battery warning light comes on:",
     "options": [
       "Battery needs replacing",
@@ -4873,6 +5316,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 444,
     "question": "Your fuel gauge shows empty but you think you have gas:",
     "options": [
       "Keep driving",
@@ -4884,6 +5328,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 445,
     "question": "Strange noises from your engine indicate:",
     "options": [
       "Normal operation",
@@ -4895,6 +5340,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 446,
     "question": "You should have your vehicle serviced:",
     "options": [
       "Only when it breaks",
@@ -4906,6 +5352,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 447,
     "question": "Regular maintenance helps:",
     "options": [
       "Prevent breakdowns",
@@ -4917,6 +5364,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 448,
     "question": "Before a long trip, you should:",
     "options": [
       "Fill up with gas",
@@ -4928,6 +5376,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 449,
     "question": "What should be in your emergency kit?",
     "options": [
       "First aid supplies",
@@ -4939,6 +5388,7 @@
     "reference": "Chapter 3 - Getting Ready to Drive"
   },
   {
+    "id": 450,
     "question": "If you must stop on the highway:",
     "options": [
       "Stop in traffic lane",
@@ -4950,6 +5400,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 451,
     "question": "When stopped on roadside, you should:",
     "options": [
       "Stay in vehicle",
@@ -4961,6 +5412,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 452,
     "question": "If you must walk on highway:",
     "options": [
       "Walk with traffic",
@@ -4972,6 +5424,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 453,
     "question": "Use emergency flashers when:",
     "options": [
       "Your vehicle is disabled",
@@ -4983,6 +5436,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 454,
     "question": "If involved in minor collision:",
     "options": [
       "Leave immediately",
@@ -4994,6 +5448,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 455,
     "question": "Information to exchange after collision includes:",
     "options": [
       "Insurance information",
@@ -5005,6 +5460,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 456,
     "question": "You should call police for collision if:",
     "options": [
       "Any damage occurs",
@@ -5016,6 +5472,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 457,
     "question": "If someone is injured in collision:",
     "options": [
       "Move them immediately",
@@ -5027,6 +5484,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 458,
     "question": "After a collision, you should:",
     "options": [
       "Remain calm",
@@ -5038,6 +5496,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 459,
     "question": "Hit and run is:",
     "options": [
       "A minor offense",
@@ -5049,6 +5508,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 460,
     "question": "If you damage unattended property:",
     "options": [
       "Drive away",
@@ -5060,6 +5520,7 @@
     "reference": "Chapter 7 - Dealing with Particular Situations"
   },
   {
+    "id": 461,
     "question": "Aggressive driving includes:",
     "options": [
       "Following too closely",
@@ -5071,6 +5532,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 462,
     "question": "Road rage is:",
     "options": [
       "Mechanical problems",
@@ -5082,6 +5544,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 463,
     "question": "If confronted by road rage:",
     "options": [
       "Engage the driver",
@@ -5093,6 +5556,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 464,
     "question": "To avoid aggressive drivers:",
     "options": [
       "Give them space",
@@ -5104,6 +5568,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 465,
     "question": "Distracted driving includes:",
     "options": [
       "Using cell phone",
@@ -5115,6 +5580,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 466,
     "question": "Using handheld devices while driving is:",
     "options": [
       "Always illegal",
@@ -5126,6 +5592,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 467,
     "question": "Hands-free devices are:",
     "options": [
       "Always legal",
@@ -5137,6 +5604,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 468,
     "question": "The safest option for phone calls while driving is:",
     "options": [
       "Hands-free device",
@@ -5148,6 +5616,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 469,
     "question": "Fatigue while driving is:",
     "options": [
       "Not dangerous",
@@ -5159,6 +5628,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 470,
     "question": "Signs of driver fatigue include:",
     "options": [
       "Difficulty focusing",
@@ -5170,6 +5640,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 471,
     "question": "To combat fatigue while driving:",
     "options": [
       "Drink coffee",
@@ -5181,6 +5652,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 472,
     "question": "Microsleep while driving means:",
     "options": [
       "Short naps are safe",
@@ -5192,6 +5664,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 473,
     "question": "The best way to stay alert is:",
     "options": [
       "Caffeine",
@@ -5203,6 +5676,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 474,
     "question": "Impaired driving includes impairment by:",
     "options": [
       "Alcohol only",
@@ -5214,6 +5688,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 475,
     "question": "Legal drugs can:",
     "options": [
       "Never impair driving",
@@ -5225,6 +5700,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 476,
     "question": "If taking medication, you should:",
     "options": [
       "Not drive",
@@ -5236,6 +5712,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 477,
     "question": "The only way to sober up is:",
     "options": [
       "Coffee",
@@ -5247,6 +5724,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 478,
     "question": "Blood alcohol content is affected by:",
     "options": [
       "Body weight",
@@ -5258,6 +5736,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 479,
     "question": "Even one drink can:",
     "options": [
       "Improve driving",
@@ -5269,6 +5748,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 480,
     "question": "The safest choice when drinking is:",
     "options": [
       "Drive slowly",
@@ -5280,6 +5760,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 481,
     "question": "Designated drivers should:",
     "options": [
       "Drink less",
@@ -5291,6 +5772,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 482,
     "question": "Ride-sharing and taxis are:",
     "options": [
       "Too expensive",
@@ -5302,6 +5784,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 483,
     "question": "If you see an impaired driver:",
     "options": [
       "Follow them",
@@ -5313,6 +5796,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 484,
     "question": "Vehicle emissions contribute to:",
     "options": [
       "Air pollution",
@@ -5324,6 +5808,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 485,
     "question": "To reduce emissions:",
     "options": [
       "Maintain your vehicle",
@@ -5335,6 +5820,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 486,
     "question": "Idling your vehicle:",
     "options": [
       "Warms it up faster",
@@ -5346,6 +5832,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 487,
     "question": "Eco-friendly driving includes:",
     "options": [
       "Gradual acceleration",
@@ -5357,6 +5844,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 488,
     "question": "Carpooling helps:",
     "options": [
       "Reduce traffic",
@@ -5368,6 +5856,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 489,
     "question": "Public transit is:",
     "options": [
       "Always inconvenient",
@@ -5379,6 +5868,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 490,
     "question": "Walking and cycling:",
     "options": [
       "Are not transportation",
@@ -5390,6 +5880,7 @@
     "reference": "Chapter 8 - Sharing the Road"
   },
   {
+    "id": 491,
     "question": "Graduated licensing exists to:",
     "options": [
       "Make licensing harder",
@@ -5401,6 +5892,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 492,
     "question": "The vision test for licensing checks:",
     "options": [
       "Color blindness only",
@@ -5412,6 +5904,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 493,
     "question": "If you fail the vision test:",
     "options": [
       "You cannot get a licence",
@@ -5423,6 +5916,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 494,
     "question": "Medical conditions that must be reported include:",
     "options": [
       "Diabetes requiring medication",
@@ -5434,6 +5928,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 495,
     "question": "Your doctor may be required to:",
     "options": [
       "Report certain conditions to MTO",
@@ -5445,6 +5940,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 496,
     "question": "If you develop a medical condition affecting driving:",
     "options": [
       "Keep driving",
@@ -5456,6 +5952,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 497,
     "question": "Licence renewal notices are sent:",
     "options": [
       "At expiry",
@@ -5467,6 +5964,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 498,
     "question": "If you don't receive renewal notice:",
     "options": [
       "You don't need to renew",
@@ -5478,6 +5976,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 499,
     "question": "Driving with expired licence results in:",
     "options": [
       "Warning only",
@@ -5489,6 +5988,7 @@
     "reference": "Chapter 2 - Your Driver's Licence"
   },
   {
+    "id": 500,
     "question": "Your driving record affects:",
     "options": [
       "Insurance rates",
