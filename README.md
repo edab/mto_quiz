@@ -105,6 +105,50 @@ This comprehensive question bank covers virtually all testable content from the 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Testing
+
+The project includes comprehensive testing to ensure reliability and catch regressions during development.
+
+### Test Types
+
+**Unit Tests**
+- Test individual functions and logic components
+- Focus on quiz functionality like question shuffling, scoring, and data handling
+- Run with Jest framework
+
+**End-to-End Tests** *(Planned)*
+- Test complete user workflows and interactions
+- Verify cross-device compatibility and responsive design
+- Run with Playwright framework
+
+### Running Tests
+
+```bash
+# Run all unit tests
+npm test
+
+# Run tests in watch mode (auto-rerun on changes)
+npm run test:watch
+
+# Run end-to-end tests (when implemented)
+npm run test:e2e
+
+# Run all tests
+npm run test:all
+```
+
+### Test Coverage
+
+Current test coverage includes:
+- Question shuffling algorithm validation
+- Array manipulation and data integrity
+- Edge case handling (empty arrays, single elements)
+- Statistical randomness verification
+
+### Development Workflow
+
+Tests are automatically run to ensure code quality and prevent regressions when adding new features or modifying existing functionality.
+
 ## Reference
 
 This practice test is based on:

@@ -14,6 +14,11 @@ function shuffleArray(array) {
     return shuffled;
 }
 
+// Export for testing
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = { shuffleArray };
+}
+
 async function loadQuestions() {
     try {
         const response = await fetch('./data/500_question_bank.json');
